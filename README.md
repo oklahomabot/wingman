@@ -1,0 +1,2 @@
+# wingman
+discord bot repo
