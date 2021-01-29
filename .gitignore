@@ -1,0 +1,7 @@
+*.db
+*.db-journal
+__pycache__
+*.env
+lib/bot/token.0
+junk.*
+test.*
